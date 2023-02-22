@@ -5,6 +5,6 @@ public class PartTimeMentor {
 
     public void createAccount() {
 
-        System.out.println("Part Time Mentor is created");
+        System.out.println("PartTimeMentor is created");
     }
 }

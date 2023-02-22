@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring_framework" />
+        <module name="Spring_Framework" />
         <module name="Sp_01_Core_IoC" />
         <module name="Sp_00_Coupling" />
+        <module name="Sp_02_Core_wiring" />
       </profile>
     </annotationProcessing>
   </component>

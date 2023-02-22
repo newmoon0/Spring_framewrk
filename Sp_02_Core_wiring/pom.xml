@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Spring_Framework</artifactId>
+    <artifactId>Sp_02_Core_wiring</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
