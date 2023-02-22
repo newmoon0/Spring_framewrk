@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Sp_00_Coupling/pom.xml" />
+        <option value="$PROJECT_DIR$/Sp_01_Core_IoC/pom.xml" />
       </list>
     </option>
   </component>
