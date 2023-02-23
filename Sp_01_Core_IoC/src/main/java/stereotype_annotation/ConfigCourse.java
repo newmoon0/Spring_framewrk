@@ -4,6 +4,6 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 //@ComponentScan
-@ComponentScan(basePackages = "Sp_01_Core_IoC")
+@ComponentScan(basePackages = "stereotype_annotation")
 public class ConfigCourse {
 }
